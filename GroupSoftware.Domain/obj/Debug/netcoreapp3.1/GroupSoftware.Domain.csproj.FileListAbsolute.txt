@@ -1,0 +1,12 @@
+C:\Projetos\Teste\GroupSoftware\GroupSoftware.Domain\bin\Debug\netcoreapp3.1\GroupSoftware.Domain.deps.json
+C:\Projetos\Teste\GroupSoftware\GroupSoftware.Domain\bin\Debug\netcoreapp3.1\GroupSoftware.Domain.dll
+C:\Projetos\Teste\GroupSoftware\GroupSoftware.Domain\bin\Debug\netcoreapp3.1\GroupSoftware.Domain.pdb
+C:\Projetos\Teste\GroupSoftware\GroupSoftware.Domain\obj\Debug\netcoreapp3.1\GroupSoftware.Domain.csprojAssemblyReference.cache
+C:\Projetos\Teste\GroupSoftware\GroupSoftware.Domain\obj\Debug\netcoreapp3.1\GroupSoftware.Domain.AssemblyInfoInputs.cache
+C:\Projetos\Teste\GroupSoftware\GroupSoftware.Domain\obj\Debug\netcoreapp3.1\GroupSoftware.Domain.AssemblyInfo.cs
+C:\Projetos\Teste\GroupSoftware\GroupSoftware.Domain\obj\Debug\netcoreapp3.1\GroupSoftware.Domain.dll
+C:\Projetos\Teste\GroupSoftware\GroupSoftware.Domain\obj\Debug\netcoreapp3.1\GroupSoftware.Domain.pdb
+C:\Projetos\Teste\GroupSoftware\GroupSoftware.Domain\obj\Debug\netcoreapp3.1\GroupSoftware.Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\Teste\GroupSoftware\GroupSoftware.Domain\bin\Debug\netcoreapp3.1\GroupSoftware.Repository.dll
+C:\Projetos\Teste\GroupSoftware\GroupSoftware.Domain\bin\Debug\netcoreapp3.1\GroupSoftware.Repository.pdb
+C:\Projetos\Teste\GroupSoftware\GroupSoftware.Domain\obj\Debug\netcoreapp3.1\GroupSoftware.Domain.csproj.CopyComplete

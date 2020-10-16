@@ -1,0 +1,12 @@
+C:\Projetos\Teste\GroupSoftware\GroupSoftware.Repository\bin\Debug\netcoreapp3.1\GroupSoftware.Repository.deps.json
+C:\Projetos\Teste\GroupSoftware\GroupSoftware.Repository\bin\Debug\netcoreapp3.1\GroupSoftware.Repository.dll
+C:\Projetos\Teste\GroupSoftware\GroupSoftware.Repository\bin\Debug\netcoreapp3.1\GroupSoftware.Repository.pdb
+C:\Projetos\Teste\GroupSoftware\GroupSoftware.Repository\obj\Debug\netcoreapp3.1\GroupSoftware.Repository.csprojAssemblyReference.cache
+C:\Projetos\Teste\GroupSoftware\GroupSoftware.Repository\obj\Debug\netcoreapp3.1\GroupSoftware.Repository.AssemblyInfoInputs.cache
+C:\Projetos\Teste\GroupSoftware\GroupSoftware.Repository\obj\Debug\netcoreapp3.1\GroupSoftware.Repository.AssemblyInfo.cs
+C:\Projetos\Teste\GroupSoftware\GroupSoftware.Repository\obj\Debug\netcoreapp3.1\GroupSoftware.Repository.dll
+C:\Projetos\Teste\GroupSoftware\GroupSoftware.Repository\obj\Debug\netcoreapp3.1\GroupSoftware.Repository.pdb
+C:\Projetos\Teste\GroupSoftware\GroupSoftware.Repository\bin\Debug\netcoreapp3.1\GroupSoftware.Repository.runtimeconfig.json
+C:\Projetos\Teste\GroupSoftware\GroupSoftware.Repository\bin\Debug\netcoreapp3.1\GroupSoftware.Repository.runtimeconfig.dev.json
+C:\Projetos\Teste\GroupSoftware\GroupSoftware.Repository\obj\Debug\netcoreapp3.1\GroupSoftware.Repository.genruntimeconfig.cache
+C:\Projetos\Teste\GroupSoftware\GroupSoftware.Repository\obj\Debug\netcoreapp3.1\GroupSoftware.Repository.csproj.CoreCompileInputs.cache
